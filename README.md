@@ -6,20 +6,20 @@ This application is a work in-progress, updating and submitting what I currently
 ## Table of Contents
 
 - [Description](#description)
-- [Installation](#installation)
+- [Installation](#deployment-link)
+- [Image](#static-site)
 - [Usage](#usage)
-- [Credits](#Credits)
-- [Features](#features)
+- [Credits](#credits)
 - [Additional Info](#additional-info)
 
 ## Description:
-Application will be capable to allow a user to run a text editor on or offline easily accessible through the web.
+Application will be capable to allow a user to search books and save their searches into their saved profiles they will create.
 
 ## Static Site:
 ![Displaying-Code](/public/images/Coming_soon.png)
 
 ## Deployment Link:
-- https://text-editor-4-editors.herokuapp.com
+- https://google-book-searcher-4-free.herokuapp.com
 
 ## Usage:
 - Will Update this Section ones I am further along in the code.
